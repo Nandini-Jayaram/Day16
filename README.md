@@ -1,3 +1,4 @@
 Day16 - Callback Hell Task
 
-After the countdown of 10 the message "Happy Independence Day" to be displayed that has been using by using the setTimeout.
+
+To Display countdown from 10 to 1 on the screen and then display the message "Happy Independence Day" on the screen using setTimeout
